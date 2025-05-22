@@ -173,14 +173,6 @@
 
 <div align="center">
 
-| Certification | Issuing Organization | Year |
-|---------------|----------------------|------|
-| Microsoft Certified: Power BI Data Analyst Associate | Microsoft | 2023 |
-| Oracle Database SQL Certified Associate | Oracle | 2022 |
-| Azure Data Engineer Associate | Microsoft | 2023 |
-| Advanced DAX for Power BI | SQLBI | 2023 |
-| Python for Data Science and Machine Learning | Udemy | 2022 |
-
 </div>
 
 ### 🎓 Continuous Learning Path
